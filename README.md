@@ -6,22 +6,16 @@
 
 <p><b>Pronouns:</b> He/Him.
 <br />
-<b>Location:</b> on the Sunshine Coast of Queensland Australia
-<br />
-<br />
-👯 <u><b>looking for work</b></u> as a junior developer concentrating on 
+<b>Location:</b> Sunshine Coast of Queensland Australia - <a href="https://www.google.com/maps/place/Sunshine+Coast+QLD/">Google Maps</a> - <i>external link</i>
+</p>
+
+👯 <u><b>looking for work</b></u> as a junior developer concentrating on
+
 <ul>
   <li><i>Accessible</i> <b>HTML</b></li> 
   <li><i>Performant</i> <b>CSS</b>; and</li> 
   <li><i>Best practices</i> in <b>ReactJS</b></li>
 </ul>
-Reach out to me on: <a href="https://twitter.com/Coder_Carl">
-<img  align="center" alt="Carl Davidson Twitter" src="https://img.shields.io/twitter/follow/Coder_Carl.svg?style=social" /></a> or
-<a href="https://www.linkedin.com/in/carl-davidson/">
-<img align="center" alt="Carl Davidson" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-</p>
 
 ---
 
@@ -29,7 +23,7 @@ Reach out to me on: <a href="https://twitter.com/Coder_Carl">
 
 | <code><img height="30" alt="React JS" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></code> | <code><img height="30" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></code> | <code><img height="30" alt="SCSS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 </code>
-| <code><img height="30" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></code> | <code><img height="30" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></code> | <code><img height="30" alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></code>
+| <code><img height="30" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></code> | <code><img height="30" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></code> | <code><img height="30" alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></code>|
 
 ---
 
