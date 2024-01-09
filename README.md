@@ -9,11 +9,11 @@
 <b>Location:</b> Sunshine Coast of Queensland Australia - <a href="https://www.google.com/maps/place/Sunshine+Coast+QLD/">Google Maps</a> - <i>external link</i>
 </p>
 
-👯 <u><b>looking for work</b></u> as a junior developer concentrating on
+👯 <u><b>looking for work</b></u> as a front end developer concentrating on
 
 <ul>
   <li><i>Accessible</i> <b>HTML</b></li> 
-  <li><i>Performant</i> <b>CSS</b>; and</li> 
+  <li><i>Performant</i> <b>CSS/SCSS</b>; and</li> 
   <li><i>Best practices</i> in <b>ReactJS</b></li>
 </ul>
 
