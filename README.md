@@ -70,17 +70,6 @@ _*installation instructions are available in the repo*_
 <a href="https://github.com/CoderCarl1/MewMewKitty">Github Repo</a>
 
 </details>
-<details><summary>2 way marketplace: written in <code><img alt="Ruby on rails" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png"></code> | <code><img alt="CSS" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> | <code><img alt="HTML" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-</summary>
-
-A 2 way marketplace exercise to learn Models and Ruby on Rails
-
-- Auth: Devise Gem
-- image upload: Cloudinary
-- Payment integration: Stripe (Development version only)
-
-_*installation instructions are available in the repo*_
-
 <a href="https://github.com/CoderCarl1/T2A2-Rails-Marketplace">Github Repo</a> | <a href="https://tat2-market.herokuapp.com/">live site</a>
 
 </details>
